@@ -1,4 +1,4 @@
-<p align="center" style="font-size:20px">Hello, World</p>
+<p align="center" font="bold">Hello, World</p>
 
 # About Myself:
 - My name is **_Sital Chandra_ 💻** <br/>
