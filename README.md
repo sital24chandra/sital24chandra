@@ -1,6 +1,8 @@
 # Hello, World! I am Sital Chandra 🌏
 
-<a href="https://www.linkedin.com/in/sital-chandra-81828b1ba"><img src="https://kvians.online/tempimg/linkedin.png" width="256px" height="100" alt="Linked In" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sital-chandra-81828b1ba"><img src="https://kvians.online/tempimg/in.png" alt="Linked In" /></a>
+</p>
 
 ### I'm a Student and Developer 👨‍💻
 
