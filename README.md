@@ -1,7 +1,9 @@
 # Hello, World! I am Sital Chandra 🌏
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sital-chandra-81828b1ba"><img src="https://kvians.online/tempimg/in.png" alt="Linked In" /></a>
+  <a href="https://www.linkedin.com/in/sital-chandra-81828b1ba"><img src="https://kvians.online/tempimg/in.png" height="64px" width="64px" alt="Linked In" /></a>
+  <span>ㅤㅤㅤㅤ<span>
+  <a href="mailto:sital24chandra@gmail.com"><img src="https://kvians.online/tempimg/gmail.png" height="60px" width="60px" alt="Mail Id" /></a>
 </p>
 
 ### I'm a Student and Developer 👨‍💻
