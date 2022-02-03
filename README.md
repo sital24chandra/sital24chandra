@@ -10,7 +10,7 @@
 
 > - **My name is** _Sital Chandra_
 > - **I am currently working on** _Machine Learning_ **&** _Cyber Security_ 🤖
-> - **I am now trying to learn** _Data Science_ 👨‍🔬
+> - **I am currently trying to learn** _Data Science_ 👨‍🔬
 > - **I developed softwares for** _Robotos, Search Engines, Social Media, Cyber Security **&** many more_. 💻
 > - **I have completed more than** _79 Projects_. 🚧
 > - **I am looking to work on** _Space Tech_ **soon**. 🚀
